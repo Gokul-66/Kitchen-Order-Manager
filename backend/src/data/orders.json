@@ -1,0 +1,106 @@
+[
+  {
+    "id": 101,
+    "customerName": "Aarav Patel",
+    "items": [
+      "Margherita Pizza",
+      "Garlic Bread"
+    ],
+    "status": "NEW",
+    "createdAt": "2026-03-11T08:10:00.000Z"
+  },
+  {
+    "id": 102,
+    "customerName": "Nisha Sharma",
+    "items": [
+      "Paneer Tikka",
+      "Mint Chutney"
+    ],
+    "status": "NEW",
+    "createdAt": "2026-03-11T08:12:30.000Z"
+  },
+  {
+    "id": 103,
+    "customerName": "Rohan Mehta",
+    "items": [
+      "Veg Hakka Noodles",
+      "Spring Rolls"
+    ],
+    "status": "NEW",
+    "createdAt": "2026-03-11T08:14:20.000Z"
+  },
+  {
+    "id": 104,
+    "customerName": "Priya Iyer",
+    "items": [
+      "Masala Dosa",
+      "Sambar",
+      "Coconut Chutney"
+    ],
+    "status": "NEW",
+    "createdAt": "2026-03-11T08:05:10.000Z"
+  },
+  {
+    "id": 105,
+    "customerName": "Vikram Singh",
+    "items": [
+      "Chicken Biryani",
+      "Raita"
+    ],
+    "status": "READY",
+    "createdAt": "2026-03-11T08:07:45.000Z",
+    "updatedAt": "2026-03-11T12:40:40.073Z"
+  },
+  {
+    "id": 106,
+    "customerName": "Sana Khan",
+    "items": [
+      "Caesar Salad",
+      "Iced Tea"
+    ],
+    "status": "READY",
+    "createdAt": "2026-03-11T08:09:55.000Z",
+    "updatedAt": "2026-03-11T17:49:09.569Z"
+  },
+  {
+    "id": 107,
+    "customerName": "Arjun Rao",
+    "items": [
+      "Cheeseburger",
+      "Fries"
+    ],
+    "status": "PREPARING",
+    "createdAt": "2026-03-11T07:58:05.000Z",
+    "updatedAt": "2026-03-11T17:37:59.274Z"
+  },
+  {
+    "id": 108,
+    "customerName": "Meera Nair",
+    "items": [
+      "Thai Green Curry",
+      "Jasmine Rice"
+    ],
+    "status": "PREPARING",
+    "createdAt": "2026-03-11T08:00:40.000Z"
+  },
+  {
+    "id": 109,
+    "customerName": "Kabir Joshi",
+    "items": [
+      "Penne Arrabbiata",
+      "Lemonade"
+    ],
+    "status": "PREPARING",
+    "createdAt": "2026-03-11T08:02:15.000Z"
+  },
+  {
+    "id": 110,
+    "customerName": "Ananya Gupta",
+    "items": [
+      "Falafel Wrap",
+      "Hummus"
+    ],
+    "status": "NEW",
+    "createdAt": "2026-03-11T08:16:10.000Z"
+  }
+]
